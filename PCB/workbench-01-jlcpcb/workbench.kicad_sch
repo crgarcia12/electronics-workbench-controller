@@ -6,8 +6,8 @@
 
   (title_block
     (title "Workbench Controller")
-    (date "2023-05-26")
-    (rev "v1")
+    (date "2023-05-27")
+    (rev "V.20230527.01")
   )
 
   (lib_symbols
@@ -4567,8 +4567,8 @@
     (property "Reference" "J1" (at 51.435 17.78 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "GND|+5" (at 64.77 10.16 90)
-      (effects (font (size 1.27 1.27)) (justify left) hide)
+    (property "Value" "+5 | GND" (at 60.96 13.97 90)
+      (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-3-2-5.08_1x02_P5.08mm_Horizontal" (at 54.61 16.51 0)
       (effects (font (size 1.27 1.27)) hide)
